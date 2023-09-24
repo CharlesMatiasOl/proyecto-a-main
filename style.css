@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+.humor3
+{
+    
+    align-items: center;
+    display: flex;
+    justify-content: center;
+   
+}
+.humor1{
+    margin: 400px;
+    padding-left: 10px;
+    
+
+}
+.humor2{
+    margin: -1400px;
+    align-items: center;
+    display: flex;
+    max-width: 100%;
+    max-height: 100%;
+
+}
