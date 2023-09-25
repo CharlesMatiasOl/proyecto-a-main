@@ -10,13 +10,13 @@ body{
    
 }
 .humor1{
-    margin: 400px;
-    padding-left: 10px;
+    margin: -300px;
+    padding-left: 40px;
     
 
 }
 .humor2{
-    margin: -1400px;
+    margin: -800px;
     align-items: center;
     display: flex;
     max-width: 100%;
