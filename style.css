@@ -20,11 +20,11 @@ html,body,h1{
 .header__menu{
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 15px;
    
     
 }
-.main{
+.main__img{
     flex-grow:1;
     text-align: center;
     
@@ -32,8 +32,9 @@ html,body,h1{
 
 .header__link{
     color: black;
-    font-size: 30px;
+    font-size: 25px;
 
 }
+
 
 
